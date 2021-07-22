@@ -44,6 +44,10 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.dream-paragraph{
+    text-align:justify;
+    margin-right: 15%;
+}
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
